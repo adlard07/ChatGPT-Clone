@@ -40,16 +40,16 @@ pip install requirements.txt
 
 ## Project Structure
 
-### `fine_tuning/`
+`fine_tuning/`
 Contains scripts and code for fine-tuning the "microsoft/phi-1_5" model on a custom dataset.
 
-### `flask_api/`
+`flask_api/`
 Includes the Flask API for serving the fine-tuned model.
 
-### `react_app/`
+`react_app/`
 Houses the React-based web application for user interaction with the chatbot.
 
-### `utils/`
+`utils/`
 Utility scripts and functions used across the project.
 
 ## Configuration
