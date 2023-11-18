@@ -12,7 +12,7 @@ The fine-tuning process involves training the "microsoft/phi-1_5" model on a spe
 - Flask (for serving the fine-tuned model)
 
 ### Requirements
-- ```bash
+```bash
 pip install requirements.txt
 ```
 
