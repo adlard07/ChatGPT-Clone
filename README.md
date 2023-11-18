@@ -1,4 +1,4 @@
-# ChatGPT Clone with Fine-Tuned "microsoft/phi-1_5" Model
+# ChatGPT Clone
 
 ## Overview
 This project is a ChatGPT clone built by fine-tuning the "microsoft/phi-1_5" language model on a new dataset. The fine-tuned model is deployed in a React-based web application, allowing users to interact with the chatbot.
